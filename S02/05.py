@@ -10,7 +10,7 @@ elif c=='*':
         print(a*b)
 elif c=='/':
     if (a!=0) or (b!=0):
-        print('Problem = 0')
+        print('Problem = 00')
     else:
         print(a/b)
 elif c=='^':
